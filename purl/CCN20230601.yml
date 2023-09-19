@@ -1,0 +1,15 @@
+# PURL configuration for http://purl.bican.org/taxonomy/CCN20230601
+
+idspace: CCN20230601
+base_url: /taxonomy/CCN20230601
+
+products:
+- CCN20230601.json: https://raw.githubusercontent.com/hkir-dev/nhp_basal_ganglia_taxonomy/main/CCN20230601.json
+
+base_redirect: https://github.com/hkir-dev/nhp_basal_ganglia_taxonomy
+
+entries:
+
+# http://purl.bican.org/taxonomy/CCN20230601/CCN20230601.json
+- exact: /CCN20230601.json
+  replacement: https://raw.githubusercontent.com/hkir-dev/nhp_basal_ganglia_taxonomy/main/CCN20230601.json
