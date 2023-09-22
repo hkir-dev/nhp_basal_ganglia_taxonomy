@@ -2,14 +2,14 @@
 
 Atlas of non-human primate basal ganglia, developed in collaboration with the BRAIN Initiative Cell Census Network (BICCN).
 
-Steps for curation:
+Curate your taxonomy in 4 simple steps:
 
-1- [Get Taxonomy Dvelopment Tools](#get-taxonomy-dvelopment-tools)  
-1- [Add your data](#add-your-data)  
-1- [Load your data](#load-your-data)  
-1- [Browse](#browse)  
+1- [Get Taxonomy Development Tools](#get-taxonomy-development-tools)  
+2- [Add your data](#add-your-data)  
+3- [Load your data](#load-your-data)  
+4- [Browse](#browse)  
 
-## Get Taxonomy Dvelopment Tools 
+## Get Taxonomy Development Tools 
 
 Pull the latest TDT docker image via following the steps defined in the project [GitHub Container Registry](https://github.com/brain-bican/taxonomy-development-tools/pkgs/container/taxonomy-development-tools). 
 
