@@ -4,10 +4,10 @@ Atlas of non-human primate basal ganglia, developed in collaboration with the BR
 
 Steps for curation:
 
-1- [Get Taxonomy Dvelopment Tools](#get-taxonomy-dvelopment-tools)
-1- [Add your data](#add-your-data)
-1- [Load your data](#load-your-data)
-1- [Browse](#browse)
+1- [Get Taxonomy Dvelopment Tools](#get-taxonomy-dvelopment-tools)  
+1- [Add your data](#add-your-data)  
+1- [Load your data](#load-your-data)  
+1- [Browse](#browse)  
 
 ## Get Taxonomy Dvelopment Tools 
 
